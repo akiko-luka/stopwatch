@@ -15,4 +15,4 @@ This vanilla JavaScript code creates a countdown timer with start, stop, and res
 
 ## Screenshots
 
-![ss-stopwatch](https://github.com/akiko-luka/stopwatch/assets/138122651/039aaa83-0cba-47dc-bf8d-5fbd8fdf7193)
+![ss-stopwatch](https://github.com/akiko-luka/stopwatch/assets/138122651/91cc911d-680a-4bc4-8d33-45819cc43778)
